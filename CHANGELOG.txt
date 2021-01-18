@@ -1,0 +1,18 @@
+# Changelog
+This log keeps track of changes made to this project.
+
+## [Unreleased]
+
+##[1.0.0] - 2020-1-17
+### Added
+-file01.txt
+-file02.txt
+-file03.txt
+-updated file01.txt
+-reimplemented develop branch
+
+##[0.1.0] - 2020-1-17
+### Added
+-file00.txt
+-develop branch
+-deleted develop branch
