@@ -3,6 +3,14 @@ This log keeps track of changes made to this project.
 
 ## [Unreleased]
 
+##[2.0.0] - 2020-1-17
+### Added
+-file04.txt
+-file05.txt
+-updated file03.txt
+-file06.txt
+-updated file04.txt
+
 ##[1.0.0] - 2020-1-17
 ### Added
 -file01.txt
